@@ -1,4 +1,4 @@
-# IBP_Project
+# Integrated Bioinformatics Project
 
 These pipelines use two different batch correcting methods in order to visualize gene expression onto UMAP representations of post mortem human Alzheimers snRNA-seq samples. They were developed for the Integrated Bioinformatics Project by Nikolay Makarenko, Rucsanda Juncu, and Mieke Nicolaï in association with KU Leuven and Dr. Stein Aerts. 
 
